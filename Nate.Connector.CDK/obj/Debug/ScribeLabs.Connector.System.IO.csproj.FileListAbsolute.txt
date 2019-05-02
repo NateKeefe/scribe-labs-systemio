@@ -1,0 +1,22 @@
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.xml
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csprojAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csproj.CoreCompileInputs.cache
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csproj.CopyComplete
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.SystemIO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.SystemIO.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.SystemIO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.SystemIO.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.SystemIO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.SystemIO.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.xml
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csprojAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csproj.CoreCompileInputs.cache
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csproj.CopyComplete
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.SystemIO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.SystemIO\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.SystemIO.pdb
