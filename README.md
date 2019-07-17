@@ -1,6 +1,13 @@
 # Scribe Labs - System.IO
 On-Premise community connector for Scribe using .NET System.IO namespace
 
+### Installation
+Create a new connector folder in: **..\Scribe Online Agent\Connectors\Community.Connector.SystemIO\\**
+<br/>3 Connector Dll's located in: **..\master\Nate.Connector.CDK\bin\Debug\\**
+<br/>Unblock any Dlls
+<br/>Restart your Scribe Online Agent service
+<br/>NOTE: This connector is run by your Agent service (*default* is Local System)!
+
 ### Use-cases
 Use this connector with Text or XML connectors to easily process multiple files in the same map. 
 
